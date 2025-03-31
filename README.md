@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Kulanika**
 
-I'm a Machine Learning Engineer | Data Scientist | AI Security Enthusiast with a background in software engineering. My journey started in ERP software development, and I later transitioned into machine learning research and AI security.
+I'm a Machine Learning, Data Science, AI Security Enthusiast with a background in software engineering. My journey started in ERP software development, and I later transitioned into data science, machine learning research and AI security.
 
 - Currently: Research Assistant | Data Science Master's Student
 - Previously: Senior Software Engineer at IFS (Financials Product Group)
